@@ -1,0 +1,17 @@
+img
+{
+    margin: 2em;
+}
+.img2
+{
+    position: relative;
+    top: -80px;
+    left: 60px;
+    height: 300px;
+}
+/*remover da versão de exercício */
+p
+{
+    text-align: justify;
+    display: flex;
+}
