@@ -10,8 +10,8 @@ Aulas:
 20 de março: Aula 4A - Apresentando as tags de organização de texto(div e span) e de classificação(class e #id)
 27 de Março: Aula 4B - Revisando tudo apresentado até o momento na forma de criação de um site do zero
 03 de abril: Não houve aula - Feriado de Páscoa 
-10 de abril: Aula 5 - 
-17 de abril: Aula 6 - 
+10 de abril: Aula 5 - Listas e semântica no HTML
+17 de abril: Aula 6 - Animação e transição no CSS
 24 de abril: Aula 7 - 
 01 de maio: Aula 8 - 
 08 de maio: Aula 9 -  
