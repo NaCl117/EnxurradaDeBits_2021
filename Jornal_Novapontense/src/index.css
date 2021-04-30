@@ -1,0 +1,112 @@
+.news
+{
+    margin: 20px 20px 50px 20px;
+}
+.news1
+{
+    margin: 20px 20px 20px 20px;
+}
+.notisias
+{
+    display:inline-flex;
+}
+.not
+{
+    background-color: #f1f1f1;
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #6f6f6f;
+
+    text-align: justify;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+.notisias:hover
+{
+    color: #000000;
+}
+.not p
+{
+    margin: 7.5px 10px;
+}
+.not h2
+{
+    margin: 0 10px;
+    text-align: center;
+}
+.not1 h2
+{
+    margin: 7.5px 10px;
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    margin: 0;
+}
+.img_notisia
+{
+    width: 300px;
+    height: 200px;
+    
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom: solid;
+    border-color: #6f6f6f;
+}
+h2
+{
+    font-size: 20px;
+    margin: 0;
+}
+.faixa3 a:hover h2
+{
+    text-decoration: none;
+}
+a:hover h2
+{
+    text-decoration: underline solid #000000;
+}
+h3
+{
+    margin: 0;
+    font-weight: normal;
+    font-size: 15px;
+}
+#main a h3
+{
+    display: inline-flex;
+    padding: 3px 5px;
+    border: solid 2.5px #33438b;
+    border-radius: 5px;
+    color: #000000;
+}
+#main a:hover h3
+{
+    transition: 0.125s;
+    background-color: #33438b;
+    color: #ffffff;
+}
+.not1
+{
+    background-color: #f1f1f1;
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #6f6f6f;
+
+    text-align: justify;
+}
+.boletim
+{
+    width: 300px;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom: solid;
+    border-color: #6f6f6f;
+}
