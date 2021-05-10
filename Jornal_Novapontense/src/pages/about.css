@@ -1,0 +1,15 @@
+section
+{
+    margin: 25px 50px;
+}
+h2
+{
+    text-align: center;
+    margin: 0;
+}
+p
+{
+    text-indent: 2.5em;
+    text-align: justify;
+    margin: 5px;
+}
