@@ -82,7 +82,7 @@ if(programa == 4)
 if(programa == 5)
 {
     val1 = parseInt(prompt("Digite o primeiro valor"));
-    val2 = parseInt(prompt("Difite o segundo valor, ele deve ser maior que o primeiro"));
+    val2 = parseInt(prompt("Digite o segundo valor, ele deve ser(obrigatoriamente) maior que o primeiro"));
     somaImpares = 0;
     value = val1;
     for(value; value <= val2; value++) 
