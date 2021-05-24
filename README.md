@@ -12,9 +12,14 @@ Aulas:
 03 de abril: Não houve aula - Feriado de Páscoa 
 10 de abril: Aula 5 - Listas e semântica no HTML
 17 de abril: Aula 6 - Animação e transição no CSS
-24 de abril: Aula 7 - 
-01 de maio: Aula 8 - 
-08 de maio: Aula 9 -  
-15 de maio: Aula 10 - 
-22 de maio: Aula 11 - 
+24 de abril: Aula 7 - Introdução ao JavaScript
+01 de maio: Aula 8 - Estruturas de decisão e repetição no JavaCript
+08 de maio: Aula 9 - Funções no JavaScript
+15 de maio: Aula 10 - Entradas, botões e eventos
+22 de maio: Aula 11 - Integrações do JavaScript ao HTML
 29 de maio: Aula 12 - 
+05 de Junho: Aula 13 - 
+12 de Junho: Aula 13 - 
+19 de Junho: Aula 13 - 
+26 de Junho: Aula 13 - 
+03 de Julho: Aula 13 - 
