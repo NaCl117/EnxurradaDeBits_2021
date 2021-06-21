@@ -15,11 +15,11 @@ Aulas:
 24 de abril: Aula 7 - Introdução ao JavaScript
 01 de maio: Aula 8 - Estruturas de decisão e repetição no JavaCript
 08 de maio: Aula 9 - Funções no JavaScript
-15 de maio: Aula 10 - Entradas, botões e eventos
-22 de maio: Aula 11 - Integrações do JavaScript ao HTML
-29 de maio: Aula 12 - 
-05 de Junho: Aula 13 - 
-12 de Junho: Aula 13 - 
-19 de Junho: Aula 13 - 
-26 de Junho: Aula 13 - 
-03 de Julho: Aula 13 - 
+15 de maio: Aula de Revisão
+22 de maio: Aula de Revisão
+29 de maio: Aula de Revisão
+05 de junho: Não houve aula - Feriado prolongado
+12 de junho: Aula 10 - Integrações do JavaScript ao HTML
+19 de junho: Aula 11 - Entradas, botões e eventos
+26 de junho: Aula de Revisão
+03 de julho: Aula 12 - Aula de despedida e encerramento
