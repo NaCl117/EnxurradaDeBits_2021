@@ -1,0 +1,21 @@
+html
+{
+  background-color: #313131;
+}
+h1
+{
+  margin: 2px 0;
+  color: #e5e90f;
+}
+h2
+{
+  margin: 2px 0;
+  color: #b1ee4e;
+}
+p
+{
+  font-size:larger;
+  margin: 0;
+  text-indent: .5cm;
+  color: #ffffff;
+}
