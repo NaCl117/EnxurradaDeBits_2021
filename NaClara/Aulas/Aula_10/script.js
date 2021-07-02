@@ -4,7 +4,7 @@ let header_HTML = document.querySelector("header")
 let h1_header = document.createElement("h1")
 let texto_h1_header = document.createTextNode("Earth Wind & Fire")
 let p_header = document.createElement("p")
-let texto_p_header = document.createTextNode("Earth, Wind & Fire (EWF) is an American band that has spanned the musical genres of R&B, soul, jazz, disco, dance.")
+let texto_p_header = document.createTextNode("Earth, Wind & Fire (EWF) is an American band that has spanned the musical genres of R&B, soul, jazz, disco e dance.")
 
 header_HTML.appendChild(h1_header)
 h1_header.appendChild(texto_h1_header)
